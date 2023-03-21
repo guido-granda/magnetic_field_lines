@@ -11,3 +11,6 @@ Currently, the physical quantitties that can be interpolated along the magnetic 
 
 Requiretments: 
 It requires a uniform grid which can be obtained with codes like yt-project.
+
+Description: 
+It store the outputs in hdf5 format and these files contain information of the position of the magnetic field lines and the derived quantitites along then. 
