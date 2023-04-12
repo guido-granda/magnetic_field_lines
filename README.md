@@ -5,9 +5,6 @@ Currently, the physical quantitties that can be interpolated along the magnetic 
 - Density,
 - Magnetic field magnitude
 - Alfénic match number
-- Match number
-- Velocity
-
 
 Requiretments: 
 It requires a uniform grid which can be obtained with codes like yt-project.
